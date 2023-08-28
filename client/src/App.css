@@ -1,0 +1,15 @@
+.box{
+    background: #eff0f4;
+    border-color: #c9d3dd;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 6px;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+    display: flex;
+}
+
+.custom-pagination .page-item {
+    background-color: #f0f0f0;
+    color: #5D1F06;
+}
